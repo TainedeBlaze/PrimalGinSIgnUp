@@ -1,0 +1,16 @@
+{
+  "name": "Primal Spirits Signup",
+  "short_name": "Primal Spirits",
+  "description": "Sign Up to recieve info from Primal Spirits",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}

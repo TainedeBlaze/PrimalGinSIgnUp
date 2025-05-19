@@ -14,6 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Primal Gin Signup",
+  manifest: "/manifest.json", 
   description: "Sign Up to recieve discounts and exclusive deals",
   icons: {
     icon: "/favicon.ico",
