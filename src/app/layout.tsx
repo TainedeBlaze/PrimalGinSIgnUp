@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   manifest: "/manifest.json", 
   description: "Sign Up to recieve discounts and exclusive deals",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/favicon.png",
   },
 };
 
