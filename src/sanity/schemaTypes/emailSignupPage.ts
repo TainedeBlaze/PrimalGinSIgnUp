@@ -38,5 +38,13 @@ export default defineType({
       ],
       validation: Rule => Rule.min(1),
     },
+    {
+      name: 'buttonText',
+      title: 'Button Text',
+      type: 'string',
+      options: {
+        placeholder: 'Give me a good offer',
+      },
+    },
   ],
 }); 
